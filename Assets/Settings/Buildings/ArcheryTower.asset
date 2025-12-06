@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d3e411450b4a3aaa7ea369a2449d46, type: 3}
+  m_Name: ArcheryTower
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: archery_tower
+  <Prototype>k__BackingField: {fileID: 4791028598119858422, guid: b65741190b5635649ac71ed9678e9ada, type: 3}
+  <Stats>k__BackingField:
+  - Name: Radius
+    Value: 2
+    Previous: 0
+  - Name: Damage
+    Value: 3
+    Previous: 0
+  - Name: AttackSpeed
+    Value: 1
+    Previous: 0
+  - Name: TurnSpeed
+    Value: 180
+    Previous: 0

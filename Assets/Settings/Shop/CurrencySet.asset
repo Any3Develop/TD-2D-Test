@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5b186dc1f64123b887617ed8677765, type: 3}
+  m_Name: CurrencySet
+  m_EditorClassIdentifier: 
+  <Items>k__BackingField:
+  - <Id>k__BackingField: common_coin
+    <Category>k__BackingField: 0
+    <ConfigId>k__BackingField: common_coin
+    <Icon>k__BackingField: {fileID: 21300000, guid: e3a318b3f4bc94c48ad6987c95ff79ba, type: 3}
+    <Title>k__BackingField: Coin
+    <Description>k__BackingField: Ingame currency
+    <Price>k__BackingField: []
+  - <Id>k__BackingField: hard_coin
+    <Category>k__BackingField: 0
+    <ConfigId>k__BackingField: hard_coin
+    <Icon>k__BackingField: {fileID: 21300000, guid: 4d8afefd108e1684da7eb2c63ea6f846, type: 3}
+    <Title>k__BackingField: Hard Coin
+    <Description>k__BackingField: Premium Coin
+    <Price>k__BackingField: []

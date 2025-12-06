@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5b186dc1f64123b887617ed8677765, type: 3}
+  m_Name: BuildingsSet
+  m_EditorClassIdentifier: 
+  <Items>k__BackingField:
+  - <Id>k__BackingField: ArcheryTower
+    <Category>k__BackingField: 1
+    <ConfigId>k__BackingField: archery_tower
+    <Icon>k__BackingField: {fileID: 21300000, guid: 1cb1878303f32e04ebe91960f2513519, type: 3}
+    <Title>k__BackingField: Archery Tower
+    <Description>k__BackingField: Protects a radius, attacks single targets with
+      arrows.
+    <Price>k__BackingField:
+    - <Id>k__BackingField: common_coin
+      <Amount>k__BackingField: 15
+  - <Id>k__BackingField: BomberTower
+    <Category>k__BackingField: 1
+    <ConfigId>k__BackingField: bomber_tower
+    <Icon>k__BackingField: {fileID: 21300000, guid: 769a50ab3d27db04e96ef84eb009332d, type: 3}
+    <Title>k__BackingField: Bomber Tower
+    <Description>k__BackingField: Protects a radius, attacks with bombs over an area.
+    <Price>k__BackingField:
+    - <Id>k__BackingField: common_coin
+      <Amount>k__BackingField: 30
